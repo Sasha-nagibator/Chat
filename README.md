@@ -13,7 +13,8 @@
 
 Клонируем репозиторий:
 ```bash
-   git clone https://github.com/Sasha-nagibator/python -b dev
+   git clone https://github.com/Sasha-nagibator/Chat -b dev
+   cd Chat
 ```
 
 Запускаем сервер. В аргументах командной строки указываем номер хоста и порта: 
